@@ -38,7 +38,7 @@ const CONFIG = {
             'Understanding the pathogenicity and transmission of the single celled parasite Giardia lamblia.',
           imageUrl:
             'https://github.com/isabellaelisa/isabellaelisa.github.io/raw/main/giardia_pres.png',
-          link: 'https://github.com/isabellaelisa/isabellaelisa.github.io/raw/main/giardia_pres.png',
+          link: 'https://github.com/isabellaelisa/isabellaelisa.github.io/blob/main/Giardia%20lamblia%20Seminar.pdf',
         },
         {
           title: 'Sonic Hedgehog Gene',
@@ -46,7 +46,7 @@ const CONFIG = {
             'The Shh gene explained and its effects on the digits of embryonic mice.',
           imageUrl:
             'https://github.com/isabellaelisa/isabellaelisa.github.io/raw/main/shh_pres.png',
-          link: 'https://github.com/isabellaelisa/isabellaelisa.github.io/raw/main/shh_pres.png',
+          link: 'https://github.com/isabellaelisa/isabellaelisa.github.io/raw/main/Shh%20Gene%20(1).pdf',
         },
       ],
     },
