@@ -33,20 +33,20 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'Giardia lamblia',
           description:
-            'Welcome to my GitHub!.',
+            'Understanding the pathogenicity and transmission of the single celled parasite Giardia lamblia.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://github.com/isabellaelisa/isabellaelisa.github.io/raw/main/giardia_pres.png',
+          link: 'https://github.com/isabellaelisa/isabellaelisa.github.io/raw/main/giardia_pres.png',
         },
         {
-          title: 'Project Name',
+          title: 'Sonic Hedgehog Gene',
           description:
-            'My projects are here.',
+            'The Shh gene explained and its effects on the digits of embryonic mice.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://github.com/isabellaelisa/isabellaelisa.github.io/raw/main/shh_pres.png',
+          link: 'https://github.com/isabellaelisa/isabellaelisa.github.io/raw/main/shh_pres.png',
         },
       ],
     },
