@@ -126,7 +126,7 @@ const CONFIG = {
       conferenceName: '',
       journalName: 'Microbiology Resource Announcements',
       authors: '',
-      link: '',
+      link: 'https://github.com/isabellaelisa/isabellaelisa.github.io/raw/main/C.treverense%20Final%20Paper.pdf',
       description:
         'The article is in submission.',
     },
