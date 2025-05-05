@@ -10,6 +10,31 @@ const CONFIG = {
    * for example your repository is at https://github.com/arifszn/portfolio, then set base to '/portfolio/'.
    */
   base: '/',
+   publications: {
+    github: {
+      display: true, // Display GitHub publications?
+      header: 'Github Publications',
+      mode: 'manual', // Mode can be: 'automatic' or 'manual'
+      automatic: {
+        sortBy: 'stars', // Sort projects by 'stars' or 'updated'
+        limit: 8, // How many projects to display.
+        exclude: {
+          forks: false, // Forked projects will not be displayed if set to true.
+          projects: [], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        },
+      },
+  external: {
+      header: 'My Publications',
+      // To hide the `External Projects` section, keep it empty.
+      projects: [
+        {
+          title: 'Chryseobacterium treverense',
+          description:
+            'This is a manuscript in submission.',
+          imageUrl:
+            '',
+          link: 'https://github.com/isabellaelisa/isabellaelisa.github.io/raw/main/Chryseobacteriumtreverensefinaldraft%20-2-1.docx.pdf',
+        },
   projects: {
     github: {
       display: true, // Display GitHub projects?
@@ -28,6 +53,7 @@ const CONFIG = {
         projects: ['isabellaelisa/Genome-Assembly-Isabella', 'isabellaelisa/MicroBiomeTutorial'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
+        {
     external: {
       header: 'My Projects',
       // To hide the `External Projects` section, keep it empty.
