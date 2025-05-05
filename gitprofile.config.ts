@@ -33,7 +33,7 @@ const CONFIG = {
             'This is a manuscript in submission.',
           imageUrl:
             '',
-          link: 'https://github.com/isabellaelisa/isabellaelisa.github.io/raw/main/Chryseobacteriumtreverensefinaldraft%20-2-1.docx.pdf',
+          link: 'https://github.com/isabellaelisa/isabellaelisa.github.io/raw/main/C.treverense%20Final%20Paper.pdf',
         },
   projects: {
     github: {
