@@ -33,6 +33,14 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
+          title: 'Microbial Transcriptomics',
+          description:
+            'Analyzing the trasncriptome and differentially expressed genes in populations of Promicromonospora bacteria in varying environments.',
+          imageUrl:
+            'https://github.com/isabellaelisa/isabellaelisa.github.io/raw/main/giardia_pres.png',
+          link: 'https://github.com/isabellaelisa/isabellaelisa.github.io/blob/main/Giardia%20lamblia%20Seminar.pdf',
+        },
+        {
           title: 'Giardia lamblia',
           description:
             'Understanding the pathogenicity and transmission of the single celled parasite Giardia lamblia.',
