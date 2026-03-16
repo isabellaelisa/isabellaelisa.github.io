@@ -17,7 +17,7 @@ const CONFIG = {
       mode: 'manual', // Mode can be: 'automatic' or 'manual'
       automatic: {
         sortBy: 'stars', // Sort projects by 'stars' or 'updated'
-        limit: 2, // How many projects to display.
+        limit: 3, // How many projects to display.
         exclude: {
           forks: false, // Forked projects will not be displayed if set to true.
           projects: [], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['isabellaelisa/Genome-Assembly-Isabella', 'isabellaelisa/MicroBiomeTutorial'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['isabellaelisa/Genome-Assembly-Isabella', 'isabellaelisa/MicroBiomeTutorial', 'isabellaelisa/PHB-Microbial-Transcriptomics'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
@@ -35,15 +35,15 @@ const CONFIG = {
         {
           title: 'Microbial Transcriptomics',
           description:
-            'Analyzing the trasncriptome and differentially expressed genes in populations of Promicromonospora bacteria in varying environments.',
+            'This project analyzes RNA-seq trancriptomic data to explore patterns of gene expression and functional annotation. The goal was to identify differentially expressed genes and biological processes associated with gene clusters and determine the functionality using bioinformatics tools.',
           imageUrl:
-            'PHB Microbial Transcriptomics Report Isabella Fregoso.pdf',
+            'https://github.com/isabellaelisa/isabellaelisa.github.io/blob/main/PHBcodeimage.png',
           link: 'https://github.com/isabellaelisa/isabellaelisa.github.io/blob/main/PHB%20Microbial%20Transcriptomics%20Report%20Isabella%20Fregoso.pdf',
         },
         {
           title: 'Giardia lamblia',
           description:
-            'Understanding the pathogenicity and transmission of the single celled parasite Giardia lamblia.',
+            'Analysis of the life cycle, pathogenic mechanisms, and transmission pathways of the protozoan parasite Giardia lamblia, with emphasis on host-parasite interactions and environmental persistence.',
           imageUrl:
             'https://github.com/isabellaelisa/isabellaelisa.github.io/raw/main/giardia_pres.png',
           link: 'https://github.com/isabellaelisa/isabellaelisa.github.io/blob/main/Giardia%20lamblia%20Seminar.pdf',
@@ -51,7 +51,7 @@ const CONFIG = {
         {
           title: 'Sonic Hedgehog Gene',
           description:
-            'The Shh gene explained and its effects on the digits of embryonic mice.',
+            'Examination of Sonic Hedgehog (Shh) signaling and its influence on digit formation and limb patterning in embryonic mice.',
           imageUrl:
             'https://github.com/isabellaelisa/isabellaelisa.github.io/raw/main/shh_pres.png',
           link: 'https://github.com/isabellaelisa/isabellaelisa.github.io/raw/main/Shh%20Gene%20(1).pdf',
@@ -60,7 +60,7 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Isabella Elisa Website',
+    title: 'Isabella Fregoso Website',
     description: '',
     imageURL: '',
   },
@@ -88,44 +88,61 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://github.com/isabellaelisa/isabellaelisa.github.io/raw/main/IsabellaFregosoCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://github.com/isabellaelisa/isabellaelisa.github.io/blob/main/Isabella%20Fregoso%20CV%203_2026.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
-  skills: [
-    'Bilingual',
-    'Bioinformatics',
-    'Medical Terminology',
-    'Excel',
-  ],
-  experiences: [
-    {
-      company: 'Kaiser Permanente',
-      position: 'Patient Care Technician',
-      from: 'June 2023',
-      to: 'Present',
-      companyLink: '',
-    },
-    {
-      company: 'Oak Valley Hospital Districs',
-      position: 'Medical Assistant',
-      from: 'May 2022',
-      to: 'August 2023',
-      companyLink: '',
-    },
-  ],
-  certifications: [
-    {
-      name: 'Medical Assistant Certification',
-      body: '',
-      year: '2021',
-      link: '',
-    },
-  ],
   educations: [
     {
       institution: 'California State University Stanislaus',
       degree: 'B.S in Biological Sciences',
       from: '2021',
       to: '2025',
+    },
+  ],
+  bioinformatics and computational tools: [
+    'MEGA',
+    'Prokka',
+    'BarnApp',
+    'SPAdes',
+    'QIIME2',
+    'ABySS',
+    'QUAST',
+    'FastANI',
+    'NCBI databases',
+    'BLAST',
+    'Linux/ Ubuntu command interface',
+    'Python',
+    'R (basic)',
+    'GitHub',
+    'Clustal Omega',
+  ],
+  experiences: [
+    {
+      company: 'California State University, Stanislaus',
+      position: 'Undergraduate Research Student',
+      from: 'September 2025',
+      to: 'December 2026',
+      companyLink: '',
+    },
+    {
+      company: 'California State University, Stanislaus',
+      position: 'Biology Teaching Assistant',
+      from: 'August 2024',
+      to: 'December 2024',
+      companyLink: '',
+    },
+  ],
+  certifications: [
+    {
+      name: 'CPR/AED for Healthcare Providers',
+      body: '',
+      year: '2025',
+      link: '',
+    }
+    {
+      name: 'Medical Assistant Certification',
+      body: '',
+      year: '2021',
+      link: '',
     },
   ],
   publications: [
