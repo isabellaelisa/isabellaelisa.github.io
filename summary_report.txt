@@ -1,0 +1,1153 @@
+==== Top GO Terms ====
+    169 
+    157 S
+     68 -
+     67 G
+     64 E
+     64 C
+     57 K
+     43 J
+     34 P
+     31 L
+     30 M
+     25 H
+     22 F
+     19 V
+     17 T
+     17 I
+     16 O
+     11 D
+      9 transcriptional regulator
+      8 IQ
+      7 Q
+      5 GM
+      5 Belongs to the cytochrome P450 family
+      4 U
+      4 Transcriptional regulator
+      4 EP
+      3 membrane
+      3 NU
+      3 KLT
+      3 EH
+      3 EGP
+      3 Alpha beta hydrolase
+      3 2HQIW@201174|Actinobacteria
+      2 pyridine nucleotide-disulphide oxidoreductase
+      2 helix_turn_helix multiple antibiotic resistance protein
+      2 Tripartite tricarboxylate transporter TctB family
+      2 Sulfotransferase family
+      2 PFAM binding-protein-dependent transport systems inner membrane component
+      2 KT
+      2 Histidine kinase
+      2 GK
+      2 FJ
+      2 Extracellular solute-binding protein
+      2 Binding-protein-dependent transport systems inner membrane component
+      2 Acetyltransferase (GNAT) family
+      2 ABC transporter
+      1 to chymotrypsin. May be specialized for the degradation of chitin- linked proteins. Has a primary specificity for large aliphatic or aromatic amino acids
+      1 signal transduction histidine kinase regulating citrate malate metabolism
+      1 serine threonine protein kinase
+      1 sequence-specific DNA binding
+      1 ribonuclease
+      1 putP
+      1 protein possibly involved in aromatic compounds catabolism
+      1 protein conserved in bacteria
+      1 phospholipase Carboxylesterase
+      1 methyltransferase
+      1 membrane transporter protein
+      1 lactoylglutathione lyase activity
+      1 isochorismatase hydrolase
+      1 haloacid dehalogenase
+      1 gntR family
+      1 gnfR
+      1 glyoxalase bleomycin resistance protein dioxygenase
+      1 glycosyl transferase group 1
+      1 flavoprotein involved in K transport
+      1 fatty acid desaturase
+      1 epimerase dehydratase
+      1 chitinase activity
+      1 bifunctional deaminase-reductase domain protein
+      1 belongs to the sigma-70 factor family
+      1 belongs to the nudix hydrolase family
+      1 alcohol dehydrogenase
+      1 acetyltransferase
+      1 Von Willebrand factor type A
+      1 Universal stress protein family
+      1 UDP binding domain
+      1 Tripartite tricarboxylate transporter TctA
+      1 Transcriptional regulator containing an amidase domain and an AraC-type DNA-binding HTH domain
+      1 Tautomerase enzyme
+      1 Short-chain dehydrogenase reductase sdr
+      1 SMI1 / KNR4 family (SUKH-1)
+      1 QT
+      1 Protein of unknown function (DUF742)
+      1 Periplasmic binding protein LacI transcriptional regulator
+      1 Periplasmic binding protein
+      1 PFAM monooxygenase FAD-binding
+      1 PFAM glycosyl transferase family 9
+      1 PFAM NmrA family protein
+      1 PFAM Ion transport protein
+      1 PFAM Conserved TM helix
+      1 OU
+      1 NUDIX hydrolase
+      1 NOU
+      1 NAD-dependent epimerase dehydratase
+      1 N
+      1 MlrC domain protein
+      1 Methionine aminopeptidase
+      1 Metal-independent alpha-mannosidase (GH125)
+      1 Major facilitator superfamily
+      1 Major facilitator Superfamily
+      1 L-lactate permease
+      1 L-carnitine dehydratase bile acid-inducible protein F
+      1 KL
+      1 Involved in chlorophyll biosynthesis. Catalyzes the insertion of magnesium ion into protoporphyrin IX to yield Mg- protoporphyrin IX
+      1 Haloacid dehalogenase domain protein hydrolase
+      1 HQ
+      1 HP
+      1 HJ
+      1 GtrA-like protein
+      1 Golgi phosphoprotein 3 (GPP34)
+      1 Glycosyltransferase
+      1 Glycosyl transferase
+      1 Glycosyl hydrolases family 18
+      1 GOs
+      1 Flavoprotein
+      1 Fe2+ transport protein
+      1 Fasciclin
+      1 FP
+      1 FG
+      1 Enoyl-CoA hydratase
+      1 Endonuclease/Exonuclease/phosphatase family
+      1 ET
+      1 EK
+      1 EG
+      1 EF
+      1 Domain of unknown function (DUF4191)
+      1 Dicarboxylate carrier
+      1 DUF218 domain
+      1 Conserved repeat domain
+      1 Catalase
+      1 Carotenoid biosynthesis protein
+      1 Carbamoyltransferase
+      1 COG3209 Rhs family protein
+      1 COG2133@2|Bacteria
+      1 COG0654 2-polyprenyl-6-methoxyphenol hydroxylase and related FAD-dependent oxidoreductases
+      1 COG0624 Acetylornithine deacetylase Succinyl-diaminopimelate desuccinylase and related
+      1 CO
+      1 CH
+      1 Belongs to the type-B carboxylesterase lipase family
+      1 Belongs to the short-chain dehydrogenases reductases (SDR) family
+      1 Belongs to the protein N5-glutamine methyltransferase family
+      1 Belongs to the proline racemase family
+      1 Belongs to the peptidase S8 family
+      1 Belongs to the glycosyl hydrolase family 6
+      1 Belongs to the glycosyl hydrolase 43 family
+      1 Belongs to the glycosyl hydrolase 18 family
+      1 Belongs to the class I-like SAM-binding methyltransferase superfamily. rRNA adenine N(6)-methyltransferase family
+      1 Belongs to the binding-protein-dependent transport system permease family
+      1 Belongs to the bacterial solute-binding protein 3 family
+      1 Belongs to the bacterial ribosomal protein bL27 family
+      1 Belongs to the TPP enzyme family
+      1 Belongs to the DapA family
+      1 Belongs to the ComB family
+      1 B
+      1 Aminotransferase
+      1 Aminoglycoside phosphotransferase
+      1 Aldehyde dehydrogenase family
+      1 Aldehyde dehydrogenase
+      1 Alcohol dehydrogenase GroES domain protein
+      1 Activator of hsp90 atpase 1 family protein
+      1 Acetyltransferase (GNAT) domain
+      1 AMP-binding enzyme
+      1 ABC-type dipeptide oligopeptide nickel transport
+      1 ABC-type branched-chain amino acid transport
+      1 2WM4P@28221|Deltaproteobacteria
+      1 2IM62@201174|Actinobacteria
+      1 2I90S@201174|Actinobacteria"
+      1 2I8V5@201174|Actinobacteria
+      1 2I4VC@201174|Actinobacteria
+      1 2I4UR@201174|Actinobacteria"
+      1 2HNSJ@201174|Actinobacteria"
+      1 2GXGF@201174|Actinobacteria
+      1 2GQ79@201174|Actinobacteria
+      1 2GP0C@201174|Actinobacteria
+      1 2GNP7@201174|Actinobacteria
+      1 2GNGF@201174|Actinobacteria
+      1 2GMWU@201174|Actinobacteria
+      1 2GMMM@201174|Actinobacteria
+      1 2GMFD@201174|Actinobacteria
+      1 2GMEG@201174|Actinobacteria
+      1 2GM8K@201174|Actinobacteria
+      1 2GM5R@201174|Actinobacteria
+      1 2GM31@201174|Actinobacteria
+      1 2GM21@201174|Actinobacteria
+      1 2GKFN@201174|Actinobacteria"
+      1 2GK0M@201174|Actinobacteria
+      1 2GJUK@201174|Actinobacteria
+      1 2GJSS@201174|Actinobacteria
+      1 2GJS0@201174|Actinobacteria
+      1 2GJMC@201174|Actinobacteria"
+      1 2GJFY@201174|Actinobacteria
+      1 2GJD0@201174|Actinobacteria
+      1 2GJB4@201174|Actinobacteria
+      1 2GJ5U@201174|Actinobacteria
+      1 2GJ11@201174|Actinobacteria
+      1 2GIWJ@201174|Actinobacteria
+      1 1Z12W@136846|Pseudomonas stutzeri group"
+      1 "tryptophan 2
+      1 "transport
+      1 "hydrolase
+      1 "domain
+      1 "catechol 1
+      1 "aldehyde oxidase and xanthine dehydrogenase
+      1 "UreE urease accessory protein
+      1 "SMART Metal-dependent phosphohydrolase
+      1 "Pfam Histidine kinase-
+      1 "PFAM metal-dependent phosphohydrolase
+      1 "PFAM glycoside hydrolase
+      1 "PFAM extracellular solute-binding protein
+      1 "L-2
+      1 "Cytochrome C oxidase caa3-type
+      1 "Catalyzes the irreversible cleavage of the glycosidic bond in both 5'-methylthioadenosine (MTA) and S- adenosylhomocysteine (SAH AdoHcy) to adenine and the corresponding thioribose
+      1 "COG0491 Zn-dependent hydrolases
+      1 "Beta-1
+      1 "Bacterial regulatory proteins
+      1  multichain enzyme responsible for most of the replicative synthesis in bacteria. The epsilon subunit contain the editing function and is a proofreading 3'-5' exonuclease"
+
+==== Top KEGG Pathways ====
+    735 -
+    169 
+     48 "GO:0003674
+     38 "GO:0005575
+      5 "GO:0008150
+      5 "GO:0000166
+      4 "GO:0000287
+      4  Type IV TA system"
+      3 Subtilase family
+      3 "GO:0000302
+      3  to quinones in the respiratory chain. The immediate electron acceptor for the enzyme in this species is believed to be a menaquinone. Couples the redox reaction to proton translocation (for every two electrons transferred
+      2 2.7.13.3
+      2 "GO:0000154
+      2 "GO:0000027
+      2  linked together by a central stalk and a peripheral stalk. During catalysis
+      2  connecting the 2 subunits"
+      1 yhfS
+      1 ydgJ
+      1 xyoA
+      1 xylB
+      1 xseB
+      1 vicR
+      1 truA
+      1 treY
+      1 tkt
+      1 thiL
+      1 tatB
+      1 serA
+      1 sepF
+      1 secA
+      1 rpsR
+      1 rpsK
+      1 rpsH
+      1 rpsD
+      1 rpsC
+      1 rplV
+      1 rplR
+      1 rplJ
+      1 rplB
+      1 recC
+      1 punA
+      1 poxB
+      1 pmmB
+      1 phoP
+      1 pgm
+      1 pdhB
+      1 pckG
+      1 panB
+      1 pafA
+      1 murF
+      1 mtnN
+      1 mraZ
+      1 mak
+      1 maeB
+      1 ligD
+      1 ko:K22010
+      1 ko:K11928
+      1 ko:K09166
+      1 ko:K03646
+      1 ko:K01060
+      1 hisF
+      1 gntR
+      1 gntK
+      1 gltD
+      1 glnR
+      1 glgP
+      1 garA
+      1 ftsQ
+      1 fadA3
+      1 devR
+      1 dapB
+      1 coaBC
+      1 catalyzes the conversion of
+      1 carB
+      1 belongs to the CobB CobQ family
+      1 argJ
+      1 acetyl-CoA carboxylase
+      1 Zinc-binding dehydrogenase
+      1 UvrD/REP helicase N-terminal domain
+      1 The glycine cleavage system catalyzes the degradation of glycine. The P protein binds the alpha-amino group of glycine through its pyridoxal phosphate cofactor
+      1 TIGRFAM phenylacetic acid degradation protein paaN
+      1 Sodium/hydrogen exchanger family
+      1 Rieske [2Fe-2S] domain
+      1 Repeats in polycystic kidney disease 1 (PKD1) and other proteins
+      1 Putative peptidoglycan binding domain
+      1 Pkd domain containing protein
+      1 NPCBM/NEW2 domain
+      1 NAD- dependent epimerase dehydratase
+      1 KEGG_Pathway
+      1 Hint (Hedgehog/Intein) domain N-terminal region
+      1 Helix-turn-helix XRE-family like proteins
+      1 GO:0005576
+      1 GO:0003824
+      1 GO:0003735
+      1 Esterase-like activity of phytase
+      1 Domain of unknown function (DUF4440)
+      1 Dienelactone hydrolase family
+      1 COG3828@2|Bacteria
+      1 Belongs to the class I-like SAM-binding methyltransferase superfamily. RsmB NOP family
+      1 Bacterial sugar transferase
+      1 B3/4 domain
+      1 Aldehyde dehydrogenase family
+      1 6.1.3.1
+      1 5.3.2.6
+      1 4.3.3.7
+      1 4.2.1.18
+      1 4-dihydroxy-2-butanone 4-phosphate. This is the penultimate step in the biosynthesis of riboflavin"
+      1 4-alpha-linked oligosaccharide from growing alpha-1
+      1 3.8.1.2
+      1 3.5.3.9
+      1 3.4.11.18
+      1 3.1.3.71
+      1 3.1.1.101
+      1 2.8.3.16
+      1 2.4.1.83
+      1 2.1.1.297
+      1 2.1.1.184
+      1 10-methenyltetrahydrofolate and then the hydrolysis of 5
+      1 1.6.5.2
+      1 1.2.1.4
+      1 1.14.13.20
+      1 "Type III restriction enzyme
+      1 "Purple acid Phosphatase
+      1 "GO:0006950
+      1 "GO:0002682
+      1 "GO:0001666
+      1 "GO:0000731
+      1 "GO:0000502
+      1 "GO:0000272
+      1 "GO:0000270
+      1 "GO:0000105
+      1 "GO:0000104
+      1 "GO:0000096
+      1 "GO:0000035
+      1 "Formyl transferase
+      1 "Beta-1
+      1 "4.2.1.46
+      1 "2.6.1.112
+      1 "1.2.3.3
+      1 "1.1.1.264
+      1 "1.1.1.100
+      1  yielding dihydrofolate (DHF) as a by-product. This enzymatic reaction provides an intracellular de novo source of dTMP
+      1  while the binding sites for coenzyme A and phosphate are found in the alpha subunit"
+      1  which is the branch point compound that serves as the starting substrate for the three terminal pathways of aromatic amino acid biosynthesis. This reaction introduces a second double bond into the aromatic ring system"
+      1  where it nucleates assembly of the 50S subunit"
+      1  transferring glycosyl groups"
+      1  thus changing the amino acid specificity of the tRNA from methionine to isoleucine"
+      1  thiamine
+      1  tRNA"
+      1  probably blocks exit of the E-site tRNA"
+      1  permease ATP-binding protein CydD"
+      1  methionine
+      1  linking F(1) to F(0)"
+      1  in the presence of DNA
+      1  in cooperation with DnaK
+      1  but not alternative sigma factor promoters"
+      1  and tryptophan
+      1  and the ATP-dependent hybridization of homologous single-stranded DNAs. It interacts with LexA causing its activation and leading to its autocatalytic cleavage"
+      1  and related enzymes"
+      1  and near the tRNA binding site of the peptidyltransferase center"
+      1  and HSP90-like ATPase"
+      1  a reaction catalyzed by the N-terminal domain"
+      1  Methyl binding proteins
+
+==== Top COG Categories ====
+    169 
+     11 COG1309@2|Bacteria
+      8 COG1131@2|Bacteria
+      7 COG1653@2|Bacteria
+      7 COG1028@2|Bacteria
+      7 COG0395@2|Bacteria
+      6 COG2197@2|Bacteria
+      6 COG1403@2|Bacteria
+      6 COG0791@2|Bacteria
+      5 COG2141@2|Bacteria
+      5 COG2124@2|Bacteria
+      5 COG1595@2|Bacteria
+      5 COG1414@2|Bacteria
+      5 COG1175@2|Bacteria
+      5 COG1063@2|Bacteria
+      5 COG1012@2|Bacteria
+      5 COG0667@2|Bacteria
+      5 COG0601@2|Bacteria
+      5 COG0477@2|Bacteria
+      5 COG0438@2|Bacteria
+      5 COG0346@2|Bacteria
+      4 COG4585@2|Bacteria
+      4 COG3266@2|Bacteria
+      4 COG2267@2|Bacteria
+      4 COG1846@2|Bacteria
+      4 COG1609@2|Bacteria
+      4 COG0842@2|Bacteria
+      4 COG0702@2|Bacteria
+      4 COG0654@2|Bacteria
+      4 COG0596@2|Bacteria
+      4 COG0583@2|Bacteria
+      4 COG0515@2|Bacteria
+      4 COG0277@2|Bacteria
+      3 COG4221@2|Bacteria
+      3 COG2606@2|Bacteria
+      3 COG1879@2|Bacteria
+      3 COG1278@2|Bacteria
+      3 COG1172@2|Bacteria
+      3 COG1126@2|Bacteria
+      3 COG0789@2|Bacteria
+      3 COG0745@2|Bacteria
+      3 COG0683@2|Bacteria
+      3 COG0604@2|Bacteria
+      3 COG0494@2|Bacteria
+      3 COG0491@2|Bacteria
+      3 COG0456@2|Bacteria
+      3 COG0451@2|Bacteria
+      3 COG0028@2|Bacteria
+      2 COG5620@2|Bacteria
+      2 COG4177@2|Bacteria
+      2 COG4147@2|Bacteria
+      2 COG3832@2|Bacteria
+      2 COG3824@2|Bacteria
+      2 COG3595@2|Bacteria
+      2 COG3583@2|Bacteria
+      2 COG3469@2|Bacteria
+      2 COG3397@2|Bacteria
+      2 COG3396@2|Bacteria
+      2 COG3333@2|Bacteria
+      2 COG3291@1|root
+      2 COG3239@2|Bacteria
+      2 COG3181@2|Bacteria
+      2 COG3173@2|Bacteria
+      2 COG3118@2|Bacteria
+      2 COG3055@1|root
+      2 COG2813@2|Bacteria
+      2 COG2755@2|Bacteria
+      2 COG2229@2|Bacteria
+      2 COG2226@2|Bacteria
+      2 COG2072@2|Bacteria
+      2 COG2064@2|Bacteria
+      2 COG1942@2|Bacteria
+      2 COG1940@2|Bacteria
+      2 COG1876@2|Bacteria
+      2 COG1834@2|Bacteria
+      2 COG1734@2|Bacteria
+      2 COG1695@2|Bacteria
+      2 COG1366@2|Bacteria
+      2 COG1361@2|Bacteria
+      2 COG1316@2|Bacteria
+      2 COG1294@2|Bacteria
+      2 COG1233@2|Bacteria
+      2 COG1215@2|Bacteria
+      2 COG1200@2|Bacteria
+      2 COG1173@2|Bacteria
+      2 COG1136@2|Bacteria
+      2 COG1053@2|Bacteria
+      2 COG1024@2|Bacteria
+      2 COG0859@2|Bacteria
+      2 COG0834@2|Bacteria
+      2 COG0747@2|Bacteria
+      2 COG0744@2|Bacteria
+      2 COG0739@2|Bacteria
+      2 COG0730@2|Bacteria
+      2 COG0665@2|Bacteria
+      2 COG0640@2|Bacteria
+      2 COG0628@2|Bacteria
+      2 COG0607@2|Bacteria
+      2 COG0590@2|Bacteria
+      2 COG0589@2|Bacteria
+      2 COG0561@2|Bacteria
+      2 COG0558@2|Bacteria
+      2 COG0553@2|Bacteria
+      2 COG0524@2|Bacteria
+      2 COG0513@2|Bacteria
+      2 COG0493@2|Bacteria
+      2 COG0457@2|Bacteria
+      2 COG0455@2|Bacteria
+      2 COG0452@2|Bacteria
+      2 COG0410@2|Bacteria
+      2 COG0366@2|Bacteria
+      2 COG0363@2|Bacteria
+      2 COG0318@2|Bacteria
+      2 COG0316@2|Bacteria
+      2 COG0296@2|Bacteria
+      2 COG0262@2|Bacteria
+      2 COG0254@2|Bacteria
+      2 COG0183@2|Bacteria
+      2 COG0079@2|Bacteria
+      2 COG0057@2|Bacteria
+      2 33A46@2|Bacteria
+      1 COG_category
+      1 COG5662@2|Bacteria
+      1 COG5637@2|Bacteria
+      1 COG5602@2|Bacteria
+      1 COG5516@2|Bacteria
+      1 COG5512@2|Bacteria
+      1 COG5476@2|Bacteria
+      1 COG5473@2|Bacteria
+      1 COG5383@2|Bacteria
+      1 COG5297@2|Bacteria
+      1 COG5297@1|root
+      1 COG5276@2|Bacteria
+      1 COG4995@2|Bacteria
+      1 COG4992@2|Bacteria
+      1 COG4991@2|Bacteria
+      1 COG4989@2|Bacteria
+      1 COG4988@2|Bacteria
+      1 COG4977@2|Bacteria
+      1 COG4954@2|Bacteria
+      1 COG4948@2|Bacteria
+      1 COG4942@2|Bacteria
+      1 COG4941@2|Bacteria
+      1 COG4932@1|root
+      1 COG4898@2|Bacteria
+      1 COG4894@2|Bacteria
+      1 COG4803@2|Bacteria
+      1 COG4733@2|Bacteria
+      1 COG4651@1|root
+      1 COG4641@1|root
+      1 COG4608@2|Bacteria
+      1 COG4603@2|Bacteria
+      1 COG4552@2|Bacteria
+      1 COG4420@2|Bacteria
+      1 COG4405@2|Bacteria
+      1 COG4339@2|Bacteria
+      1 COG4329@2|Bacteria
+      1 COG4290@2|Bacteria
+      1 COG4282@2|Bacteria
+      1 COG4278@2|Bacteria
+      1 COG4276@1|root
+      1 COG4251@2|Bacteria
+      1 COG4243@2|Bacteria
+      1 COG4222@1|root
+      1 COG4214@2|Bacteria
+      1 COG4209@2|Bacteria
+      1 COG4175@2|Bacteria
+      1 COG4129@2|Bacteria
+      1 COG4099@2|Bacteria
+      1 COG3979@2|Bacteria
+      1 COG3945@2|Bacteria"
+      1 COG3940@2|Bacteria
+      1 COG3938@2|Bacteria
+      1 COG3919@2|Bacteria
+      1 COG3871@2|Bacteria
+      1 COG3868@2|Bacteria
+      1 COG3845@2|Bacteria
+      1 COG3842@2|Bacteria
+      1 COG3818@2|Bacteria
+      1 COG3800@1|root
+      1 COG3795@2|Bacteria
+      1 COG3717@2|Bacteria
+      1 COG3707@2|Bacteria"
+      1 COG3693@2|Bacteria
+      1 COG3664@2|Bacteria
+      1 COG3661@2|Bacteria
+      1 COG3648@2|Bacteria
+      1 COG3631@1|root
+      1 COG3629@2|Bacteria
+      1 COG3616@2|Bacteria
+      1 COG3610@1|root
+      1 COG3593@2|Bacteria
+      1 COG3590@2|Bacteria
+      1 COG3576@2|Bacteria
+      1 COG3573@2|Bacteria
+      1 COG3571@2|Bacteria
+      1 COG3568@2|Bacteria
+      1 COG3550@2|Bacteria
+      1 COG3546@2|Bacteria
+      1 COG3544@2|Bacteria
+      1 COG3538@2|Bacteria
+      1 COG3507@2|Bacteria
+      1 COG3507@1|root
+      1 COG3502@2|Bacteria
+      1 COG3485@2|Bacteria
+      1 COG3458@2|Bacteria"
+      1 COG3429@2|Bacteria
+      1 COG3428@2|Bacteria
+      1 COG3424@2|Bacteria
+      1 COG3423@2|Bacteria
+      1 COG3410@1|root
+      1 COG3409@1|root
+      1 COG3402@2|Bacteria
+      1 COG3401@2|Bacteria
+      1 COG3391@2|Bacteria
+      1 COG3386@1|root
+      1 COG3369@2|Bacteria
+      1 COG3361@2|Bacteria"
+      1 COG3336@2|Bacteria
+      1 COG3311@2|Bacteria
+      1 COG3300@2|Bacteria
+      1 COG3296@2|Bacteria
+      1 COG3290@2|Bacteria
+      1 COG3285@2|Bacteria
+      1 COG3281@2|Bacteria
+      1 COG3280@2|Bacteria
+      1 COG3279@2|Bacteria
+      1 COG3275@2|Bacteria
+      1 COG3265@2|Bacteria
+      1 COG3253@2|Bacteria
+      1 COG3250@2|Bacteria
+      1 COG3250@1|root
+      1 COG3225@2|Bacteria
+      1 COG3224@2|Bacteria
+      1 COG3214@2|Bacteria
+      1 COG3211@2|Bacteria
+      1 COG3209@2|Bacteria
+      1 COG3195@2|Bacteria
+      1 COG3179@2|Bacteria
+      1 COG3170@2|Bacteria
+      1 COG3064@2|Bacteria"
+      1 COG3022@2|Bacteria
+      1 COG3021@2|Bacteria
+      1 COG3012@2|Bacteria
+      1 COG3011@2|Bacteria
+      1 COG3001@2|Bacteria
+      1 COG2987@2|Bacteria
+      1 COG2986@2|Bacteria
+      1 COG2971@2|Bacteria
+      1 COG2959@2|Bacteria
+      1 COG2954@2|Bacteria
+      1 COG2905@2|Bacteria"
+      1 COG2905@2|Bacteria
+      1 COG2897@2|Bacteria
+      1 COG2890@2|Bacteria
+      1 COG2887@1|root
+      1 COG2884@2|Bacteria
+      1 COG2860@2|Bacteria
+      1 COG2843@2|Bacteria
+      1 COG2814@2|Bacteria
+      1 COG2723@2|Bacteria
+      1 COG2721@2|Bacteria
+      1 COG2706@2|Bacteria
+      1 COG2508@2|Bacteria
+      1 COG2423@2|Bacteria
+      1 COG2409@2|Bacteria
+      1 COG2385@2|Bacteria
+      1 COG2375@2|Bacteria
+      1 COG2373@2|Bacteria
+      1 COG2372@2|Bacteria
+      1 COG2372@1|root
+      1 COG2366@2|Bacteria
+      1 COG2357@2|Bacteria
+      1 COG2356@2|Bacteria
+      1 COG2355@2|Bacteria
+      1 COG2353@2|Bacteria
+      1 COG2346@2|Bacteria
+      1 COG2344@2|Bacteria
+      1 COG2340@2|Bacteria
+      1 COG2337@2|Bacteria
+      1 COG2335@2|Bacteria
+      1 COG2331@2|Bacteria
+      1 COG2324@2|Bacteria
+      1 COG2314@2|Bacteria
+      1 COG2311@2|Bacteria
+      1 COG2304@2|Bacteria
+      1 COG2303@2|Bacteria
+      1 COG2273@2|Bacteria
+      1 COG2273@1|root
+      1 COG2272@2|Bacteria
+      1 COG2270@2|Bacteria
+      1 COG2265@2|Bacteria
+      1 COG2261@2|Bacteria
+      1 COG2259@2|Bacteria
+      1 COG2244@2|Bacteria
+      1 COG2235@2|Bacteria
+      1 COG2225@2|Bacteria
+      1 COG2207@2|Bacteria
+      1 COG2205@2|Bacteria
+      1 COG2202@1|root
+      1 COG2192@2|Bacteria
+      1 COG2182@2|Bacteria
+      1 COG2171@2|Bacteria
+      1 COG2148@2|Bacteria
+      1 COG2148@1|root
+      1 COG2146@2|Bacteria
+      1 COG2137@2|Bacteria
+      1 COG2133@2|Bacteria
+      1 COG2132@2|Bacteria
+      1 COG2115@2|Bacteria
+      1 COG2110@2|Bacteria
+      1 COG2079@2|Bacteria
+      1 COG2065@2|Bacteria
+      1 COG2057@2|Bacteria
+      1 COG2050@2|Bacteria
+      1 COG2047@2|Bacteria
+      1 COG2045@2|Bacteria
+      1 COG2039@2|Bacteria
+      1 COG2030@2|Bacteria
+      1 COG2030@1|root
+      1 COG2027@2|Bacteria
+      1 COG2021@2|Bacteria
+      1 COG2018@2|Bacteria
+      1 COG2017@2|Bacteria
+      1 COG2011@2|Bacteria
+      1 COG2001@2|Bacteria
+      1 COG1989@2|Bacteria
+      1 COG1988@2|Bacteria
+      1 COG1983@2|Bacteria
+      1 COG1970@2|Bacteria
+      1 COG1968@2|Bacteria
+      1 COG1960@2|Bacteria
+      1 COG1947@2|Bacteria
+      1 COG1938@2|Bacteria
+      1 COG1937@2|Bacteria
+      1 COG1914@2|Bacteria
+      1 COG1896@2|Bacteria
+      1 COG1881@2|Bacteria
+      1 COG1874@1|root
+      1 COG1841@2|Bacteria
+      1 COG1835@2|Bacteria
+      1 COG1826@2|Bacteria
+      1 COG1814@2|Bacteria
+      1 COG1804@2|Bacteria
+      1 COG1802@2|Bacteria
+      1 COG1799@2|Bacteria
+      1 COG1793@2|Bacteria
+      1 COG1733@2|Bacteria
+      1 COG1725@2|Bacteria
+      1 COG1722@2|Bacteria
+      1 COG1721@2|Bacteria"
+      1 COG1716@2|Bacteria
+      1 COG1682@2|Bacteria
+      1 COG1651@2|Bacteria
+      1 COG1638@2|Bacteria
+      1 COG1637@2|Bacteria
+      1 COG1620@2|Bacteria
+      1 COG1611@2|Bacteria
+      1 COG1609@2|Bacteria"
+      1 COG1605@2|Bacteria
+      1 COG1589@2|Bacteria
+      1 COG1587@2|Bacteria
+      1 COG1585@2|Bacteria
+      1 COG1579@2|Bacteria
+      1 COG1574@2|Bacteria
+      1 COG1573@2|Bacteria
+      1 COG1562@2|Bacteria
+      1 COG1559@2|Bacteria
+      1 COG1556@2|Bacteria
+      1 COG1533@1|root
+      1 COG1529@2|Bacteria
+      1 COG1526@2|Bacteria
+      1 COG1523@2|Bacteria
+      1 COG1522@2|Bacteria
+      1 COG1520@2|Bacteria"
+      1 COG1512@2|Bacteria
+      1 COG1506@1|root
+      1 COG1501@2|Bacteria
+      1 COG1496@2|Bacteria
+      1 COG1488@2|Bacteria
+      1 COG1482@2|Bacteria
+      1 COG1481@2|Bacteria
+      1 COG1472@2|Bacteria
+      1 COG1470@2|Bacteria
+      1 COG1457@2|Bacteria
+      1 COG1451@2|Bacteria
+      1 COG1444@2|Bacteria
+      1 COG1443@2|Bacteria
+      1 COG1434@2|Bacteria
+      1 COG1418@2|Bacteria
+      1 COG1404@2|Bacteria
+      1 COG1403@2|Bacteria"
+      1 COG1396@2|Bacteria
+      1 COG1388@2|Bacteria
+      1 COG1381@2|Bacteria
+      1 COG1364@2|Bacteria
+      1 COG1362@2|Bacteria
+      1 COG1335@2|Bacteria
+      1 COG1331@2|Bacteria
+      1 COG1330@2|Bacteria
+      1 COG1329@2|Bacteria
+      1 COG1319@2|Bacteria
+      1 COG1318@2|Bacteria
+      1 COG1314@2|Bacteria
+      1 COG1305@2|Bacteria
+      1 COG1304@2|Bacteria
+      1 COG1295@2|Bacteria
+      1 COG1292@2|Bacteria
+      1 COG1290@2|Bacteria
+      1 COG1282@2|Bacteria
+      1 COG1277@2|Bacteria
+      1 COG1274@2|Bacteria
+      1 COG1271@2|Bacteria
+      1 COG1264@2|Bacteria
+      1 COG1253@2|Bacteria
+      1 COG1252@2|Bacteria
+      1 COG1249@2|Bacteria
+      1 COG1247@2|Bacteria
+      1 COG1240@2|Bacteria
+      1 COG1232@2|Bacteria
+      1 COG1228@2|Bacteria
+      1 COG1216@2|Bacteria
+      1 COG1207@2|Bacteria
+      1 COG1201@2|Bacteria
+      1 COG1191@2|Bacteria
+      1 COG1185@2|Bacteria
+      1 COG1181@2|Bacteria
+      1 COG1169@2|Bacteria
+      1 COG1167@2|Bacteria
+      1 COG1154@2|Bacteria
+      1 COG1146@2|Bacteria
+      1 COG1132@2|Bacteria
+      1 COG1129@2|Bacteria
+      1 COG1121@2|Bacteria
+      1 COG1120@2|Bacteria
+      1 COG1112@2|Bacteria
+      1 COG1109@2|Bacteria
+      1 COG1108@2|Bacteria
+      1 COG1104@2|Bacteria
+      1 COG1090@2|Bacteria
+      1 COG1073@2|Bacteria
+      1 COG1072@2|Bacteria
+      1 COG1071@2|Bacteria
+      1 COG1070@2|Bacteria
+      1 COG1062@2|Bacteria
+      1 COG1051@2|Bacteria
+      1 COG1040@1|root
+      1 COG1030@2|Bacteria
+      1 COG1024@1|root
+      1 COG1022@2|Bacteria
+      1 COG1018@2|Bacteria
+      1 COG1012@1|root
+      1 COG1011@2|Bacteria
+      1 COG1006@2|Bacteria
+      1 COG1004@2|Bacteria
+      1 COG1003@1|root
+      1 COG0857@1|root
+      1 COG0847@2|Bacteria"
+      1 COG0838@2|Bacteria
+      1 COG0825@1|root
+      1 COG0807@1|root
+      1 COG0803@2|Bacteria
+      1 COG0800@2|Bacteria
+      1 COG0784@2|Bacteria
+      1 COG0783@2|Bacteria
+      1 COG0781@2|Bacteria
+      1 COG0781@1|root
+      1 COG0776@2|Bacteria
+      1 COG0775@2|Bacteria
+      1 COG0770@2|Bacteria
+      1 COG0766@2|Bacteria
+      1 COG0765@2|Bacteria
+      1 COG0764@2|Bacteria"
+      1 COG0750@2|Bacteria
+      1 COG0735@2|Bacteria
+      1 COG0723@1|root
+      1 COG0722@2|Bacteria
+      1 COG0717@2|Bacteria
+      1 COG0713@2|Bacteria
+      1 COG0712@2|Bacteria
+      1 COG0711@2|Bacteria
+      1 COG0699@2|Bacteria
+      1 COG0697@2|Bacteria
+      1 COG0695@2|Bacteria
+      1 COG0693@2|Bacteria
+      1 COG0690@2|Bacteria
+      1 COG0686@2|Bacteria
+      1 COG0685@2|Bacteria
+      1 COG0682@2|Bacteria
+      1 COG0677@2|Bacteria
+      1 COG0673@2|Bacteria
+      1 COG0668@2|Bacteria
+      1 COG0655@2|Bacteria
+      1 COG0653@2|Bacteria
+      1 COG0649@2|Bacteria
+      1 COG0642@2|Bacteria
+      1 COG0638@2|Bacteria
+      1 COG0636@2|Bacteria
+      1 COG0632@2|Bacteria
+      1 COG0629@2|Bacteria
+      1 COG0624@2|Bacteria
+      1 COG0620@2|Bacteria
+      1 COG0614@2|Bacteria
+      1 COG0611@2|Bacteria
+      1 COG0609@2|Bacteria
+      1 COG0605@2|Bacteria
+      1 COG0599@2|Bacteria
+      1 COG0598@2|Bacteria
+      1 COG0591@2|Bacteria"
+      1 COG0587@2|Bacteria
+      1 COG0582@2|Bacteria
+      1 COG0579@2|Bacteria
+      1 COG0566@2|Bacteria
+      1 COG0563@2|Bacteria
+      1 COG0560@2|Bacteria
+      1 COG0557@2|Bacteria
+      1 COG0548@2|Bacteria
+      1 COG0546@2|Bacteria
+      1 COG0542@2|Bacteria
+      1 COG0537@2|Bacteria
+      1 COG0526@2|Bacteria
+      1 COG0523@2|Bacteria
+      1 COG0522@2|Bacteria
+      1 COG0521@2|Bacteria
+      1 COG0520@2|Bacteria
+      1 COG0516@2|Bacteria
+      1 COG0510@2|Bacteria
+      1 COG0509@2|Bacteria
+      1 COG0508@2|Bacteria
+      1 COG0507@2|Bacteria
+      1 COG0505@2|Bacteria
+      1 COG0495@2|Bacteria
+      1 COG0492@2|Bacteria
+      1 COG0484@2|Bacteria
+      1 COG0479@2|Bacteria
+      1 COG0473@2|Bacteria
+      1 COG0471@2|Bacteria
+      1 COG0468@2|Bacteria
+      1 COG0464@2|Bacteria
+      1 COG0462@2|Bacteria
+      1 COG0458@2|Bacteria
+      1 COG0446@2|Bacteria
+      1 COG0444@2|Bacteria
+      1 COG0443@2|Bacteria
+      1 COG0440@2|Bacteria
+      1 COG0413@2|Bacteria
+      1 COG0411@2|Bacteria
+      1 COG0407@2|Bacteria
+      1 COG0406@2|Bacteria
+      1 COG0405@2|Bacteria
+      1 COG0404@2|Bacteria
+      1 COG0396@2|Bacteria
+      1 COG0388@2|Bacteria
+      1 COG0386@2|Bacteria
+      1 COG0383@2|Bacteria
+      1 COG0381@2|Bacteria
+      1 COG0373@2|Bacteria
+      1 COG0359@2|Bacteria
+      1 COG0353@2|Bacteria
+      1 COG0347@2|Bacteria
+      1 COG0345@2|Bacteria
+      1 COG0339@2|Bacteria
+      1 COG0334@2|Bacteria
+      1 COG0333@2|Bacteria
+      1 COG0332@2|Bacteria
+      1 COG0329@2|Bacteria
+      1 COG0307@2|Bacteria
+      1 COG0306@2|Bacteria
+      1 COG0297@2|Bacteria
+      1 COG0289@2|Bacteria
+      1 COG0284@2|Bacteria
+      1 COG0282@2|Bacteria
+      1 COG0281@2|Bacteria
+      1 COG0279@2|Bacteria
+      1 COG0276@2|Bacteria
+      1 COG0275@2|Bacteria
+      1 COG0272@2|Bacteria
+      1 COG0267@2|Bacteria
+      1 COG0266@2|Bacteria
+      1 COG0265@2|Bacteria
+      1 COG0264@2|Bacteria
+      1 COG0260@2|Bacteria
+      1 COG0257@2|Bacteria
+      1 COG0256@2|Bacteria
+      1 COG0255@2|Bacteria
+      1 COG0248@2|Bacteria
+      1 COG0247@2|Bacteria
+      1 COG0246@2|Bacteria
+      1 COG0244@2|Bacteria
+      1 COG0239@2|Bacteria
+      1 COG0238@2|Bacteria
+      1 COG0236@2|Bacteria
+      1 COG0235@2|Bacteria
+      1 COG0234@2|Bacteria
+      1 COG0232@2|Bacteria
+      1 COG0229@2|Bacteria
+      1 COG0227@2|Bacteria
+      1 COG0226@2|Bacteria
+      1 COG0224@2|Bacteria
+      1 COG0223@2|Bacteria
+      1 COG0222@2|Bacteria
+      1 COG0221@2|Bacteria
+      1 COG0216@2|Bacteria
+      1 COG0213@2|Bacteria
+      1 COG0211@2|Bacteria
+      1 COG0209@2|Bacteria
+      1 COG0207@2|Bacteria
+      1 COG0206@2|Bacteria
+      1 COG0204@2|Bacteria
+      1 COG0203@2|Bacteria
+      1 COG0195@2|Bacteria
+      1 COG0190@2|Bacteria
+      1 COG0189@2|Bacteria
+      1 COG0187@2|Bacteria
+      1 COG0184@2|Bacteria
+      1 COG0181@2|Bacteria
+      1 COG0180@2|Bacteria
+      1 COG0176@2|Bacteria
+      1 COG0175@2|Bacteria
+      1 COG0168@2|Bacteria
+      1 COG0166@2|Bacteria
+      1 COG0165@2|Bacteria
+      1 COG0160@2|Bacteria
+      1 COG0159@2|Bacteria
+      1 COG0148@2|Bacteria
+      1 COG0139@2|Bacteria
+      1 COG0138@2|Bacteria
+      1 COG0136@2|Bacteria
+      1 COG0129@2|Bacteria
+      1 COG0128@2|Bacteria
+      1 COG0126@2|Bacteria
+      1 COG0114@2|Bacteria
+      1 COG0113@2|Bacteria
+      1 COG0112@2|Bacteria
+      1 COG0111@2|Bacteria
+      1 COG0107@2|Bacteria
+      1 COG0106@2|Bacteria
+      1 COG0101@2|Bacteria
+      1 COG0100@2|Bacteria
+      1 COG0099@2|Bacteria
+      1 COG0098@2|Bacteria
+      1 COG0097@2|Bacteria
+      1 COG0096@2|Bacteria
+      1 COG0094@2|Bacteria
+      1 COG0092@2|Bacteria
+      1 COG0091@2|Bacteria
+      1 COG0090@2|Bacteria
+      1 COG0089@2|Bacteria
+      1 COG0087@2|Bacteria
+      1 COG0082@2|Bacteria
+      1 COG0080@2|Bacteria
+      1 COG0076@2|Bacteria
+      1 COG0075@2|Bacteria
+      1 COG0073@1|root
+      1 COG0058@2|Bacteria
+      1 COG0056@2|Bacteria
+      1 COG0054@2|Bacteria
+      1 COG0050@2|Bacteria
+      1 COG0049@2|Bacteria
+      1 COG0045@2|Bacteria
+      1 COG0044@2|Bacteria
+      1 COG0037@2|Bacteria
+      1 COG0036@2|Bacteria
+      1 COG0035@2|Bacteria
+      1 COG0033@2|Bacteria
+      1 COG0030@2|Bacteria
+      1 COG0026@2|Bacteria
+      1 COG0025@2|Bacteria
+      1 COG0024@2|Bacteria
+      1 COG0022@2|Bacteria
+      1 COG0021@2|Bacteria
+      1 COG0015@2|Bacteria
+      1 COG0005@2|Bacteria
+      1 COG0004@2|Bacteria
+      1 348GS@2|Bacteria
+      1 347RQ@2|Bacteria
+      1 345D9@2|Bacteria
+      1 343CH@2|Bacteria
+      1 33Y1G@2|Bacteria
+      1 33UVF@2|Bacteria
+      1 33S8M@2|Bacteria
+      1 33MCC@2|Bacteria
+      1 33KEC@2|Bacteria
+      1 33FJS@2|Bacteria
+      1 33ECM@2|Bacteria
+      1 33AMN@2|Bacteria
+      1 337YD@2|Bacteria
+      1 337PH@2|Bacteria"
+      1 336KJ@2|Bacteria
+      1 336AB@2|Bacteria
+      1 335QU@2|Bacteria
+      1 333K4@2|Bacteria
+      1 332QW@2|Bacteria
+      1 331SS@2|Bacteria
+      1 331DK@2|Bacteria
+      1 33198@2|Bacteria
+      1 330UF@2|Bacteria
+      1 330D3@2|Bacteria
+      1 32ZHR@2|Bacteria
+      1 32ZGI@2|Bacteria
+      1 32Z5G@2|Bacteria
+      1 32YSD@2|Bacteria
+      1 32YQ8@2|Bacteria
+      1 32YJA@2|Bacteria
+      1 32Y9G@2|Bacteria
+      1 32Y97@2|Bacteria
+      1 32XS5@2|Bacteria
+      1 32XDT@2|Bacteria
+      1 32X32@2|Bacteria
+      1 32V8W@2|Bacteria
+      1 32U4U@2|Bacteria
+      1 32TF3@2|Bacteria
+      1 32T1V@2|Bacteria
+      1 32SQA@2|Bacteria
+      1 32SFN@2|Bacteria
+      1 32S7P@2|Bacteria
+      1 32S47@2|Bacteria
+      1 32RSG@2|Bacteria
+      1 32RRR@2|Bacteria"
+      1 32RRB@2|Bacteria
+      1 32Q65@2|Bacteria
+      1 32GDB@2|Bacteria
+      1 32CKR@2|Bacteria
+      1 32C23@2|Bacteria
+      1 329Z6@2|Bacteria
+      1 3271X@2|Bacteria
+      1 326FW@2|Bacteria
+      1 324XD@2|Bacteria
+      1 31ZG6@2|Bacteria
+      1 31ZBX@2|Bacteria
+      1 31ZB0@2|Bacteria
+      1 31WMZ@2|Bacteria
+      1 31WMF@2|Bacteria
+      1 31SSV@2|Bacteria
+      1 31Q26@2|Bacteria
+      1 31M7D@2|Bacteria
+      1 31HHY@2|Bacteria
+      1 31GYR@2|Bacteria
+      1 31GEE@2|Bacteria
+      1 31D67@2|Bacteria
+      1 31CVU@2|Bacteria
+      1 31CVH@2|Bacteria
+      1 31AT3@2|Bacteria
+      1 318KY@2|Bacteria
+      1 3161G@2|Bacteria
+      1 3160H@2|Bacteria
+      1 30UIJ@2|Bacteria
+      1 30RUY@2|Bacteria
+      1 30NQ1@2|Bacteria
+      1 30BAT@2|Bacteria
+      1 2ZZP3@2|Bacteria
+      1 2ZW9C@2|Bacteria
+      1 2ZU4Z@2|Bacteria
+      1 2ZTWR@2|Bacteria
+      1 2ZR6U@2|Bacteria
+      1 2ZQ69@2|Bacteria
+      1 2ZPX8@2|Bacteria
+      1 2ZPJ4@2|Bacteria
+      1 2ZK49@2|Bacteria
+      1 2ZINF@2|Bacteria"
+      1 2ZCCY@2|Bacteria
+      1 2ZBYU@2|Bacteria
+      1 2ZBUI@2|Bacteria
+      1 2ZBQ3@2|Bacteria
+      1 2ZAMQ@2|Bacteria
+      1 2Z8CG@2|Bacteria
+      1 2Z81H@2|Bacteria
+      1 2Z7ZD@2|Bacteria
+      1 2Z7QC@2|Bacteria
