@@ -141,7 +141,7 @@ const CONFIG = {
     ]
 }
       name: 'Medical Assistant Certification',
-      body: '',
+      body; '',
       year: '2021',
       link: '',
     },
