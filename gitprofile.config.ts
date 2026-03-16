@@ -98,7 +98,7 @@ const CONFIG = {
       to: '2025',
     },
   ],
-  bioinformatics and computational tools: [
+  bioinformatics / computational tools: [
     'MEGA',
     'Prokka',
     'BarnApp',
