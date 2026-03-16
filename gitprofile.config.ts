@@ -37,8 +37,8 @@ const CONFIG = {
           description:
             'Analyzing the trasncriptome and differentially expressed genes in populations of Promicromonospora bacteria in varying environments.',
           imageUrl:
-            'https://github.com/isabellaelisa/isabellaelisa.github.io/raw/main/giardia_pres.png',
-          link: 'https://github.com/isabellaelisa/isabellaelisa.github.io/blob/main/Giardia%20lamblia%20Seminar.pdf',
+            'PHB Microbial Transcriptomics Report Isabella Fregoso.pdf',
+          link: 'https://github.com/isabellaelisa/isabellaelisa.github.io/blob/main/PHB%20Microbial%20Transcriptomics%20Report%20Isabella%20Fregoso.pdf',
         },
         {
           title: 'Giardia lamblia',
